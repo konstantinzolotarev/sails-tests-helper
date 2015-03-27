@@ -1,0 +1,33 @@
+{
+  "name": "sails-tests-helper",
+  "version": "1.0.0",
+  "description": "Various helpers for writing tests for Sails.js projects and hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/konstantinzolotarev/sails-tests-helper.git"
+  },
+  "keywords": [
+    "sails",
+    "sails.js",
+    "sailsjs",
+    "tests",
+    "mocha",
+    "sails-test"
+  ],
+  "author": "Konstantin Zolotarev <konstantin.zolotarev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/konstantinzolotarev/sails-tests-helper/issues"
+  },
+  "homepage": "https://github.com/konstantinzolotarev/sails-tests-helper",
+  "devDependencies": {
+    "chai": "^2.1.2",
+    "chance": "^0.7.3",
+    "mocha": "^2.2.1",
+    "sails": "^0.11.0"
+  }
+}
